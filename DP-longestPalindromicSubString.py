@@ -54,4 +54,4 @@ def longestPalindr(myStr):
 #print(longestPalindr("abbbacd"))
 #print(longestPalindr("aabbaacddc"))
 print("================================DUGGU's Question ===========================")
-print("============================"+ longestPalindr("agggagggacdc")+"=========================")
+print("============================"+ longestPalindr("agggagggacdc") + "=========================")
